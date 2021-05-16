@@ -1,0 +1,16 @@
+C:\D drive\codingchallengeapriltwenty\inventory\src\main\java\com\mindtree\services\Service.java
+C:\D drive\codingchallengeapriltwenty\inventory\src\main\java\com\mindtree\utility\ValidationUtility.java
+C:\D drive\codingchallengeapriltwenty\inventory\src\main\java\com\mindtree\exception\DuplicateFlagException.java
+C:\D drive\codingchallengeapriltwenty\inventory\src\main\java\com\mindtree\utility\JdbcConnection.java
+C:\D drive\codingchallengeapriltwenty\inventory\src\main\java\com\mindtree\exception\ServiceException.java
+C:\D drive\codingchallengeapriltwenty\inventory\src\main\java\com\mindtree\services\impl\ProductService.java
+C:\D drive\codingchallengeapriltwenty\inventory\src\main\java\com\mindtree\dao\Dao.java
+C:\D drive\codingchallengeapriltwenty\inventory\src\main\java\com\mindtree\exception\DaoException.java
+C:\D drive\codingchallengeapriltwenty\inventory\src\main\java\com\mindtree\client\App.java
+C:\D drive\codingchallengeapriltwenty\inventory\src\main\java\com\mindtree\entity\Product.java
+C:\D drive\codingchallengeapriltwenty\inventory\src\main\java\com\mindtree\exception\InvalidEntryException.java
+C:\D drive\codingchallengeapriltwenty\inventory\src\main\java\com\mindtree\exception\InvalidOperationException.java
+C:\D drive\codingchallengeapriltwenty\inventory\src\main\java\com\mindtree\client\Operations.java
+C:\D drive\codingchallengeapriltwenty\inventory\src\main\java\com\mindtree\dao\impl\UserDao.java
+C:\D drive\codingchallengeapriltwenty\inventory\src\main\java\com\mindtree\exception\ConnectionFaildException.java
+C:\D drive\codingchallengeapriltwenty\inventory\src\main\java\com\mindtree\utility\InputUtility.java
